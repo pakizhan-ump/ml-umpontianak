@@ -24,4 +24,20 @@ Setiap minggu terdapat **materi teori**, **notebook Google Colab untuk praktik**
 | 11 | CNN | Image classification | Paham CNN | [Open in Colab](YOUR_COLAB_LINK_M11) | [Slide](YOUR_SLIDE_LINK_M11) |
 | 12 | RNN | Text sequence model | Paham RNN | [Open in Colab](YOUR_COLAB_LINK_M12) | [Slide](YOUR_SLIDE_LINK_M12) |
 | 13 | Generative AI | Latih model generatif sederhana (mis. VAE/GAN basic) | Paham prinsip GenAI | [Open in Colab](YOUR_COLAB_LINK_M13) | [Slide](YOUR_SLIDE_LINK_M13) |
-| 14 | Reinforcement Learning | Latihan RL environment sederhana (OpenAI Gym) |
+| 14 | Reinforcement Learning | Latihan RL environment sederhana (OpenAI Gym) | Paham RL dasar | [Open in Colab](YOUR_COLAB_LINK_M14) | [Slide](YOUR_SLIDE_LINK_M14) |
+| 15 | Ethics | Diskusi kasus | Paham etika AI | [Open in Colab](YOUR_COLAB_LINK_M15) | [Slide](YOUR_SLIDE_LINK_M15) |
+| 16 | Final Project | Presentasi + laporan | Integrasi semua konsep | [Open in Colab](YOUR_COLAB_LINK_M16) | [Slide](YOUR_SLIDE_LINK_M16) |
+
+---
+
+## 🚀 Cara Menggunakan
+1. Klik link **Open in Colab** di tabel untuk membuka notebook praktikum.
+2. Klik link **Slide** untuk melihat materi presentasi.
+3. Ikuti instruksi yang ada di dalam notebook untuk praktik.
+
+---
+
+## 📌 Catatan
+- Jika ingin menjalankan notebook di lokal, pastikan sudah menginstall Python 3.8+, `numpy`, `pandas`, `scikit-learn`, `torch`, `matplotlib`, dan `seaborn`.
+- Disarankan tetap menggunakan **Google Colab** agar lebih mudah tanpa perlu setup manual.
+
