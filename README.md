@@ -26,8 +26,8 @@ Setelah menyelesaikan mata kuliah ini, mahasiswa diharapkan mampu:
 ## 👨‍🏫 Dosen Pengampu
 
 **Nama:** Izhan Fakhruzi, MSc.  
-**Email:** [izhan.fakhruzi@unmuhpnk.ac.id]  
-**Kantor:** [Universitas Muhammadiyah Pontianak]  
+**Email:** izhan.fakhruzi@unmuhpnk.ac.id  
+**Kantor:** Sistem Informasi - FTIK - Universitas Muhammadiyah Pontianak  
 **Jadwal Konsultasi:**  
 - Hari: Selasa  
 - Waktu: 13.00 - 15.00 WIB 
