@@ -40,7 +40,7 @@ Setelah menyelesaikan mata kuliah ini, mahasiswa diharapkan mampu:
 | Minggu Ke- | Topik Materi | Tugas | Deadline | Slide | Notebook |
 |:----------:|--------------|-------|----------|-------|----------|
 | 1 | Intro ML & Setup Tools | [Tugas 1: Setup Environment](Modules/Week-01/Instructions/Tugas_minggu_01.md) | DD/MM/YYYY | [Slide](Modules/Week-01/Slides/) | - |
-| 2 | Data Structures & Visualization | [Tugas 2: Data Visualization](Modules/Week-02/Instructions/) | DD/MM/YYYY | [Slide](Modules/Week-02/Slides/) | [Colab](Modules/Week-02/Notebooks/) |
+| 2 | Data Structures & Visualization | [Praktikum 2: Data Structure](Modules/Week-02/Praktikum-02/) | DD/MM/YYYY | - | - |
 | 3 | Exploratory Data Analysis (EDA) | [Tugas 3: EDA](Modules/Week-03/Instructions/) | DD/MM/YYYY | [Slide](Modules/Week-03/Slides/) | [Colab](Modules/Week-03/Notebooks/) |
 | 4 | Supervised Learning I (Klasifikasi) | [Tugas 4: Klasifikasi](Modules/Week-04/Instructions/) | DD/MM/YYYY | [Slide](Modules/Week-04/Slides/) | [Colab](Modules/Week-04/Notebooks/) |
 | 5 | Supervised Learning II (Regresi) | [Tugas 5: Regresi](Modules/Week-05/Instructions/) | DD/MM/YYYY | [Slide](Modules/Week-05/Slides/) | [Colab](Modules/Week-05/Notebooks/) |
